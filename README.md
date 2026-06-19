@@ -19,3 +19,7 @@ Aplicación web desarrollada con Streamlit que permite explorar el conjunto de d
 
 pip install -r requirements.txt
 streamlit run app.py
+
+## Link de aplicación desglegada
+
+https://proyecto-7-pxov.onrender.com/
