@@ -17,7 +17,5 @@ Aplicación web desarrollada con Streamlit que permite explorar el conjunto de d
 
 ## Cómo ejecutar localmente
 
-\`\`\`
 pip install -r requirements.txt
 streamlit run app.py
-\`\`\`
