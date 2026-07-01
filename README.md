@@ -23,3 +23,6 @@ streamlit run app.py
 ## Link de aplicación desglegada
 
 https://proyecto-7-pxov.onrender.com/
+
+<img width="738" height="1600" alt="Sin título" src="https://github.com/user-attachments/assets/d6b81ee0-65d5-48ba-829c-b37b84cdb082" />
+
